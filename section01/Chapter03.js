@@ -38,5 +38,5 @@ console.log (1 === "1");
 let num3 = null;
 console.log (typeof num3);
 
-//  병합연산자 (??) null, undefined 그 해당된 값을 적용을 안시켜준다.
-let num 
+//  병합연산자 (??) null, undefined 그 해당된 값을 적용을 안시켜준다. ** 중요하다. **
+let num5;
